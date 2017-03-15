@@ -1,4 +1,5 @@
 package starsign;
+// declare public class
 public class StarSign{
 	//declare vars
 	private String month;
